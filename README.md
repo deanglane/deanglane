@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**deanglane/deanglane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name's Dean!
 
-Here are some ideas to get you started:
+<p>I really enjoy problem solving and building processes that help automatic simple tasks. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" />
+
+<h2>Connect with me:</h1>
+<ul>
+  <li>Twitter</li>
+  <li>LinkedIn</li>
+  
+
