@@ -1,18 +1,29 @@
-<h1>Hi there 👋 I'm Dean</h1>
+# Hello! I'm Dean
 
-<p>I really enjoy problem solving and building processes that help automatic simple tasks. </p>
+Hi there! I’m a Front End Web Developer with a unique background in food & beverage manufacturing. My journey has been an exciting blend of culinary arts and tech innovation, resulting in a distinctive, yet vast, skill sets.
 
-<p>Im currently expanding my Front-end Developer skills in Javascript, React, HTML5 & CSS3 </p>
-<img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" />
+What truly distinguishes me is my capacity for refining my skills through relentless self-improvement and an insatiable thirst for acquiring new and exciting abilities.
+I thoroughly enjoy finding new and exciting ways to solve daily problems through building applications and pushing my imagination to its limits.
 
-<h2>Connect with me:</h1>
-<ul>
-  <li>Twitter</li>
-  <li>LinkedIn</li>
-</ul>  
+### My Tech Stack
+
+JavaScript  
+React
+HTML  
+CSS  
+Rest API
+TypeScript  
+Node.js
+
+Reach out if you feel like a coffee chat.
+
+<p align="center">
+  [Twitter](https://twitter.com/DeanLan49620828)  
+  [LinkedIn](https://www.linkedin.com/in/deanlaneto/)  <!-- Add your LinkedIn link here -->
+  [Email](mailto:dglane@gmail.com?subject=Let's%20Chat%20Over%20a%20Coffee!)
+</p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/deanglane/count.svg" />
 </p>
-
