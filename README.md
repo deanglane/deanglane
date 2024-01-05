@@ -10,5 +10,9 @@
   <li>Twitter</li>
   <li>LinkedIn</li>
 </ul>  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
   
 
