@@ -12,9 +12,7 @@
 </ul>  
 <p align="center"> 
   Visitor count<br>
-  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/dean/count.svg)
 </p>
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-3646cca5-bb57-4af6-ae5d-2bc127e872f2" data-elfsight-app-lazy></div>
   
 
