@@ -12,7 +12,7 @@
 </ul>  
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </p>
   
 
