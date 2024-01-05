@@ -10,9 +10,9 @@
   <li>Twitter</li>
   <li>LinkedIn</li>
 </ul>  
+
 <p align="center"> 
   Visitor count<br>
-  ![Visitor Count](https://profile-counter.glitch.me/dean/count.svg)
+  <img src="https://profile-counter.glitch.me/deanglane/count.svg" />
 </p>
-  
 
