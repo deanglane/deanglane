@@ -20,17 +20,18 @@ I thoroughly enjoy finding new and exciting ways to solve daily problems through
 </div>
 <div align="left">
   <a href="https://www.deanlane.ca">
-    <img src="assets/pokemon_pokedex_app.png" alt="Pokemon Index" height="150" width="250">
+    <img src="assets/pokemon_pokedex_app_new.png" alt="Pokemon Index" height="150" width="250">
   </a>
   <p>Pokemon Index<a href="https://github.com/JC47-P2-Sabrina-Dean/pokedex-app">< Repo Code ></a></p>
   
 </div>
 <div align="left">
   <a href="https://www.deanlane.ca">
-    <img src="assets/bar_one.png" alt="Bar One - PDF Conversion" height="150" width="250">
+    <img src="assets/bar_one_new.png" alt="Bar One - PDF Conversion" height="150" width="250">
   </a>
   <p>Bar One - PDF Conversion<a href="https://github.com/deanglane/dean-lane-bar-one">< Repo Code ></a></p>
 </div>
+    
 ### Reach out if you feel like a coffee chat.
 
 ---
