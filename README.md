@@ -36,7 +36,7 @@ I thoroughly enjoy finding new and exciting ways to solve daily problems through
 
 ---
 
-<p style="display: flex; justify-content: space-around; margin-top: 40px;">
+<p align="center">
   <a href="https://www.deanlane.ca"><img style="width: 30px ;" src="./assets/globe-1-svgrepo-com_png.png" title="Portfolio"/></a>
   <a href="https://twitter.com/DeanLan49620828"><img style="width: 30px ;" src="./assets/x-icon-png.webp" title="X / Twitter" /></a>  
   <a href="https://www.linkedin.com/in/deanlaneto/"><img style="width: 30px ;" src="./assets/LinkedIn blue.png" title="Linked In" /></a>
