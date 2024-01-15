@@ -3,7 +3,12 @@
 I’m a Toronto Front End Web Developer with a unique background in food & beverage manufacturing. My journey has been an exciting blend of culinary arts and tech innovation, resulting in a distinctive, yet vast, skill sets.
 
 What truly distinguishes me is my capacity for refining my skills through relentless self-improvement and an insatiable thirst for acquiring new and exciting abilities.
-I thoroughly enjoy finding new and exciting ways to solve daily problems through building applications and pushing my imagination to its limits.
+I thoroughly enjoy finding new and exciting ways to solve daily problems through building applications and pushing my imagination to its limits.  
+
+#### Protfolio
+[https://deanlane.ca](Check out my portfolio here!)
+
+### Tech Stack
 
 <img src="assets/JavaScript.png" alt="JavaScript" height="30" width="30"> <img src="assets/React.png" alt="React" height="30" width="30"> <img src="assets/HTML5.png" alt="HTML 5" height="30" width="30"> <img src="assets/CSS3.png" alt="CSS3" height="30" width="30"> <img src="assets/TypeScript.png" alt="TypeScript" height="30" width="30"> <img src="assets/Node.js.png" alt="Node.js" height="30" width="30">
 
