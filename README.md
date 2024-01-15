@@ -6,7 +6,8 @@ What truly distinguishes me is my capacity for refining my skills through relent
 I thoroughly enjoy finding new and exciting ways to solve daily problems through building applications and pushing my imagination to its limits.  
 
 #### Protfolio
-[https://deanlane.ca](Check out my portfolio here!)
+
+<a href="https://deanlane.ca">Check out my portfolio here!</a>
 
 ### Tech Stack
 
