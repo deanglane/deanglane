@@ -5,7 +5,7 @@ I’m a Toronto Front End Web Developer with a unique background in food & bever
 What truly distinguishes me is my capacity for refining my skills through relentless self-improvement and an insatiable thirst for acquiring new and exciting abilities.
 I thoroughly enjoy finding new and exciting ways to solve daily problems through building applications and pushing my imagination to its limits.  
 
-#### Protfolio
+#### Portfolio
 
 <a href="https://deanlane.ca">Check out my portfolio here!</a>
 
