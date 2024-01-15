@@ -12,21 +12,21 @@ I thoroughly enjoy finding new and exciting ways to solve daily problems through
 ---
 
 <div align="left">
-  <a href="https://www.deanlane.ca">
+  <a href="https://flash-it-app.netlify.app/">
     <img src="assets/flash_it_new.png" alt="Flash It" height="150" width="250">
   </a>
   <p>Flash It!
   <a href="https://github.com/deanglane/dean-lane-flash-it-app">< Repo Code ></a></p>
 </div>
 <div align="left">
-  <a href="https://www.deanlane.ca">
+  <a href="https://dean-lane-pokemon-app.netlify.app/">
     <img src="assets/pokemon_pokedex_app_new.png" alt="Pokemon Index" height="150" width="250">
   </a>
   <p>Pokemon Index<a href="https://github.com/JC47-P2-Sabrina-Dean/pokedex-app">< Repo Code ></a></p>
   
 </div>
 <div align="left">
-  <a href="https://www.deanlane.ca">
+  <a href="https://deanlane-proj01-bar-one.netlify.app/">
     <img src="assets/bar_one_new.png" alt="Bar One - PDF Conversion" height="150" width="250">
   </a>
   <p>Bar One - PDF Conversion<a href="https://github.com/deanglane/dean-lane-bar-one">< Repo Code ></a></p>
