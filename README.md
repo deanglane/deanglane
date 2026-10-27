@@ -1,6 +1,7 @@
 # Hey, I'm Dean 👋
 
 **App developer · Front-end & web developer · Indie game developer**
+
 Founder of **[Day Off Dev](https://dayoffdev.com)** — a small Toronto studio building web apps, phone apps, websites and games.
 
 I came to code from food & beverage manufacturing, and that background still drives how I build: find the repetitive, slow or frustrating part of a process and make it disappear. Most of my projects start the same way — on a day off, with a coffee and a *"what if I just built it?"*
@@ -10,7 +11,7 @@ I build for two reasons:
 - **Efficiency** — tools and apps that give people time back
 - **Creativity** — games, experiments and side quests that are just fun to make
 
-🌐 **See the work → [dayoffdev.com](https://dayoffdev.com)**
+🌐 **See the work → [dayoffdev.com](https://dayoffdev.com)**  
 🎮 **Games → [dayoffgames](https://dayoffgames.com)**
 
 ---
@@ -63,5 +64,5 @@ I build for two reasons:
 
 ## Get in touch
 
-Have a project for my next day off?
+Have a project for my next day off?  
 📬 [YOUR EMAIL] · 🌐 [dayoffdev.com](https://dayoffdev.com) · 💼 [LinkedIn]([LINKEDIN URL])
